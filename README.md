@@ -1,11 +1,29 @@
+# README #
 
-Nome: Pedro Machado Nery dos Santos 			RA:11201721325
-<br/>
-Nome: Vitor Medeiros                            RA:11201720112	
+This README would normally document whatever steps are necessary to get your application up and running.
 
-<br/>
-Codigo fonte: https://github.com/HeyCenturies/comp-grafica-a1
-<br/>
-WebAssembly: https://heycenturies.github.io/
-<br/>
-Relatório (PDF): https://github.com/HeyCenturies/comp-grafica-a1/blob/master/projeto1/RelatorioA1-CompGrafica11201720112_11201721325.pdf
+### What is this repository for? ###
+
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
